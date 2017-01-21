@@ -3,7 +3,7 @@
 ### Cloning project
 `git clone git@github.com:tranthienbinh1989/OOP.git`
 
-`cd oop`
+`cd OOP/`
  
 ### Using composer to install vendor 
 
